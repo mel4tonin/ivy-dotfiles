@@ -16,6 +16,8 @@ alias ls='ls --color=auto'
 alias la='ls -la'
 alias l.='ls -a'
 
+alais ..='cd ..'
+
 alias rename='mv -iv'
 
 alias bspwmrc='vim ~/.config/bspwm/bspwmrc'
