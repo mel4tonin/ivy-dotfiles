@@ -12,7 +12,7 @@
 	fg: 	#D3C6AA;
 	fg1: 	#d8caac;
 	fg2: 	#b3cfa7;
-  outline: #425047;
+  	outline: #425047;
 
 	transparent: #00000000;
 }
