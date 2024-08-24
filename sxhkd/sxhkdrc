@@ -7,8 +7,9 @@ super + Return
 	kitty
 
 # program launcher
+# Just text based rofi, if you want icons delete the "#" symbol
 super + space
-	rofi -show drun -theme iconic -show-icons
+	rofi -show drun #-theme iconic -show-icons
 
 super + e
   rofi -show emoji
