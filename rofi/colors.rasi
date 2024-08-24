@@ -9,9 +9,10 @@
 	blue: 	#7FBBB3;
 	magenta:#D699B6;
 	cyan: 	#83C092;
-	fg: 	#bfddb2;
+	fg: 	#D3C6AA;
 	fg1: 	#d8caac;
 	fg2: 	#b3cfa7;
+  outline: #425047;
 
 	transparent: #00000000;
 }
