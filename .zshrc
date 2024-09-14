@@ -16,7 +16,7 @@ alias ls='ls --color=auto'
 alias la='ls -la'
 alias l.='ls -a'
 
-alais ..='cd ..'
+alias ..='cd ..'
 
 alias rename='mv -iv'
 
